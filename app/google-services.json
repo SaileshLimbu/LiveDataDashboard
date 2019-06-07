@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "593947236625",
+    "firebase_url": "https://sensor-data-74aed.firebaseio.com",
+    "project_id": "sensor-data-74aed",
+    "storage_bucket": "sensor-data-74aed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593947236625:android:96ce5f47bef8092b",
+        "android_client_info": {
+          "package_name": "np.com.smartpolicestation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593947236625-gc9ttn26131gd83m6nvmr87c6kdo93j2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcHTzThF6jsMNokOVrhVQ4kYO2nYcHh1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593947236625-gc9ttn26131gd83m6nvmr87c6kdo93j2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
